@@ -46,15 +46,10 @@ Other problem as you can see, two categories are related to content on which we 
 We then used Sarimax et Prophet to build a model based on auto-regression.
 
 ### Cohort analysis : the retention 
-To see this Challenge feature under another angle we 
+To see this Challenge feature from another angle we select a dataset of the retention analysis for a weekly cohort. We set the rate of Week 8 as our dependant variable and the rate for weeks 0 to 4 along with the cohort size as independant variables. The selected model is a linear regression. We obtain a decent adjusted R-squared of 0.72 while validating all assumptions.
 
-
-
-
-
-
-
-
+### The recommandation
+This work lead to a set of recommandations. By trying to work on non-optimized datasets we collect a good amount of insights that are in my opinion more valuable that this analysis.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
